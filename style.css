@@ -1,0 +1,36 @@
+body{
+max-width: 800px;
+}
+    
+.Apresentacao p{
+    text-align: center;
+    height: 20px;
+    width: 300px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: green;
+    color: white;
+    float: left;
+
+}
+
+
+
+.quadro {
+    height: 290px;
+    width: 300px;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: azure;
+    float: left;
+}
+
+.quadro.Rotina{
+    background-color:rgb(149, 216, 149) ;
+}
+
+.quadro.ViagensQuePretendoFazer{
+    background-color:rgb(149, 216, 149);
+}
